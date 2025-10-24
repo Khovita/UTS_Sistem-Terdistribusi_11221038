@@ -5,7 +5,6 @@ Sistem **Pub-Sub Log Aggregator** yang menerima event dari publisher dan mempros
 
 ## Deskripsi
 Link Youtube: https://youtu.be/eHLOr-2wJCg
-Link Github: https://github.com/Khovita/UTS_Sistem-Terdistribusi_11221038
 ---
 
 ## Cara Menjalankan
@@ -39,4 +38,5 @@ docker run -d -p 8080:8080 -v "%cd%/data:/app/data" uts-aggregator
 
 ### 8. 
 kirim ulang event yang sama
+
 buka /stats
